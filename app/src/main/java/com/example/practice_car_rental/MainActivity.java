@@ -119,7 +119,7 @@ public class MainActivity extends AppCompatActivity {
         cars.add(new Car(makes[2],"Yaris",30.0,30348, "Yaris".toLowerCase()));
         cars.add(new Car(makes[3],"Charger",80.0,8753, "Charger".toLowerCase()));
         cars.add(new Car(makes[3],"Caravan",130.0,9023, "Caravan".toLowerCase()));
-        cars.add(new Car(makes[3],"Jurney",70.0,23901, "Jurney".toLowerCase()));
+        cars.add(new Car(makes[3],"Journey",70.0,23901, "Journey".toLowerCase()));
         cars.add(new Car(makes[4],"City",30.0,3049, "City".toLowerCase()));
         cars.add(new Car(makes[4],"Civic",35.0,7401, "Civic".toLowerCase()));
         cars.add(new Car(makes[4],"Accord",60.0,7912, "Accord".toLowerCase()));
